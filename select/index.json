@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "The Guide",
+  "base_artist": "Rachie",
+  "createdAt": "2025-12-01T13:05:13.488881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Kid Cudi feat. Andre Benjamin",
+      "has_synced": true,
+      "path": "select/01_The_Guide_Kid_Cudi_feat._Andre_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Guide (feat. André Benjamin)",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/02_The_Guide_(feat._André_Benjamin)_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Rachie",
+      "has_synced": true,
+      "path": "select/03_The_Guide_Rachie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Guide (feat. André 3000)",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/04_The_Guide_(feat._André_3000)_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Guide (feat. André 3000 Benjamin)",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/05_The_Guide_(feat._André_3000_Benjamin)_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Kid Cudi",
+      "has_synced": true,
+      "path": "select/06_The_Guide_Kid_Cudi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "THE GUIDE",
+      "artist": "GALNERYUS",
+      "has_synced": true,
+      "path": "select/07_THE_GUIDE_GALNERYUS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Lionrock",
+      "has_synced": false,
+      "path": "select/08_The_Guide_Lionrock.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Download",
+      "has_synced": false,
+      "path": "select/09_The_Guide_Download.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Karmaflow Band, Mark Jansen & Lindsay Schoolcraft",
+      "has_synced": true,
+      "path": "select/10_The_Guide_Karmaflow_Band,_Mark_Jansen_&_Lindsay_Schoolcraft.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Mark Jansen",
+      "has_synced": true,
+      "path": "select/11_The_Guide_Mark_Jansen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "As You Healed / the Guide",
+      "artist": "Vian Izak feat. Dan Russo",
+      "has_synced": true,
+      "path": "select/12_As_You_Healed___the_Guide_Vian_Izak_feat._Dan_Russo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "As You Healed / The Guide",
+      "artist": "Vian Izak & Dan Russo",
+      "has_synced": true,
+      "path": "select/13_As_You_Healed___The_Guide_Vian_Izak_&_Dan_Russo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "7. As You Healed _ The Guide",
+      "artist": "Vian Izak",
+      "has_synced": true,
+      "path": "select/14_7._As_You_Healed___The_Guide_Vian_Izak.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Kid Cudi feat. André 3000 Benjamin",
+      "has_synced": true,
+      "path": "select/15_The_Guide_Kid_Cudi_feat._André_3000_Benjamin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Guide To Outrageous Drinkin'",
+      "artist": "Randy",
+      "has_synced": false,
+      "path": "select/16_The_Guide_To_Outrageous_Drinkin'_Randy.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Guide To Success",
+      "artist": "Joe Iconis",
+      "has_synced": true,
+      "path": "select/17_The_Guide_To_Success_Joe_Iconis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Guide",
+      "artist": "Kid Cudi feat. André 3000",
+      "has_synced": true,
+      "path": "select/18_The_Guide_Kid_Cudi_feat._André_3000.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Guide For Lady MC",
+      "artist": "Miss Monday",
+      "has_synced": false,
+      "path": "select/pl_01_Guide_For_Lady_MC_Miss_Monday.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Guide",
+      "artist": "Miss Monday",
+      "has_synced": false,
+      "path": "select/pl_02_Guide_Miss_Monday.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Guide",
+      "artist": "Miss Monday",
+      "has_synced": false,
+      "path": "select/pl_03_Guide_Miss_Monday.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Guided Tour",
+      "artist": "Miss Monday",
+      "has_synced": false,
+      "path": "select/pl_04_Guided_Tour_Miss_Monday.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Guidebook To Healing",
+      "artist": "Miss Monday",
+      "has_synced": false,
+      "path": "select/pl_05_Guidebook_To_Healing_Miss_Monday.txt"
+    }
+  ]
+}
